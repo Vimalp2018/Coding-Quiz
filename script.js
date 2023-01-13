@@ -1,3 +1,5 @@
+
+
 var questionelement = document.getElementById('questions'); // handle 
 var optionsdiv = document.getElementsByClassName('options') [0];
 var options1element = document.getElementById('option1');
