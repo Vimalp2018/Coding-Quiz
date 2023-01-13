@@ -18,3 +18,4 @@ WHEN the game is over
 THEN I can save my initials and my score
 
 ## The URL of the deployed application
+https://vimalp2018.github.io/Coding-Quiz/
